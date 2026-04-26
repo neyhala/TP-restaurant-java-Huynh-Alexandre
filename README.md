@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant EPF — Système de gestion de restaurant
 
 **École EPF — Informatique et Génie Logiciel**
@@ -92,3 +93,7 @@ mvn checkstyle:checkstyle
 ```
 
 Les règles sont définies dans `checkstyle.xml` à la racine du projet. 
+=======
+# TP-restaurant-java-Huynh-Alexandre
+Tp Java restaurant Huynh Alexandre groupe SNI2
+>>>>>>> 8be0506c3dd6110e32087a92a7fe36474ca1ad09
